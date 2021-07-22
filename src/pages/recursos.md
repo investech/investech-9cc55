@@ -23,9 +23,10 @@ Utilizo dos brókers, uno para acciones españolas y otro para acciones extranje
 
 También me han hablado bien de ING y del bróker ClickTrade.
 
-### Bróker acciones extranjeras: DeGiro
+### Bróker acciones extranjeras: DeGiro y Interactive Brokers
 
-Aquí el bróker indescutible por seguridad y con comisiones más bajas es DeGiro, te lo pongo fácil, no busques más a no ser que tengas más de unos 15.000 € que puedes tener en cuenta Interactive Brokers.
+### DeGiro
+Un bróker con buena usabilidad, seguridad y con comisiones bajas es DeGiro, sobretodo para acciones de USA y España.
 
 DEGIRO es un bróker online low cost que forma parte de Flatex, con licencia bancaria alemana. También está registrado en la CNMV.
 
@@ -37,7 +38,11 @@ Puedes ver sus tarifas actualizadas aquí: [https://www.degiro.es/data/pdf/es/Re
 
 Si te registras desde [este enlace](https://www.degiro.es/amigo-invita-amigo/empezar-a-invertir.html?id=9C781C40\&amp;utm_source=mgm) tendrás una promoción en la que te devuelven las comisiones durante los primeros 3 meses.
 
-##
+### Interactive Brokers
+Es uno de los grandes, con más de 1.500 empleados, oficinas por todo el mundo e igual que DeGiro cotizado.
+Es más complejo que DeGiro, tiene plataforma de escritorio y su plataforma web es menos completa, por otro lado tiene las comisiones más competitivas, sobre todo fuera de USA y España, además tiene muchas más funcionalidades como la generación de informes específicos.
+Lo recomiendo al 100%, ya que además los traspasos de salida son gratuitos, por lo que no hay penalización si deseas irte a otro más adelante.
+
 
 ## Herramientas avanzadas
 
