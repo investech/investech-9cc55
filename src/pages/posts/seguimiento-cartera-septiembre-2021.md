@@ -4,7 +4,7 @@ subtitle: Entradas y salidas
 date: '2021-10-09'
 thumb_img_alt: lorem-ipsum
 excerpt: >-
-Seguimiento cartera Sept. 2021
+  Seguimiento cartera Sept. 2021
 hide_header: false
 template: post
 ---
